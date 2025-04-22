@@ -1,2 +1,2 @@
 # delta-demoA
-Hello web This a a
+Hello web This a a.
